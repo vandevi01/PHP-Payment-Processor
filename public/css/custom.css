@@ -1,0 +1,85 @@
+body {
+  font-size: 16px;
+}
+
+.main-box {
+  background: white;
+  min-height: 1000px;
+}
+
+.main-popup {
+  background: white;
+  margin-top: 200px;
+}
+.more-services-btn {
+  width: 40%;
+  margin-left:60%;
+}
+
+.panel-title {
+  font-size : 20px !important;
+}
+
+.panel-default > .panel-heading {
+  color: #fff;
+  background-color: #00457e;
+  border-color: #003e72;
+  padding: 20px 20px 20px;
+}
+.form-control {
+  height: 52px;
+  font-size: 16px;
+  font-weight: bolder;
+}
+
+.cart-info-btn, .cart-pay-btn, .personal-info-btn {
+  width:100%;
+}
+
+
+label {
+  color: #5b636b;
+  font-weight: normal;
+  line-height: 3.2;
+}
+
+.my-table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+.my-table tr {
+  height: 70px;
+}
+
+.product-desc {
+  padding-left: 20px;
+  color: #888;
+}
+
+.title {
+  padding: 25px 0px 25px;
+  color: #f69201;
+}
+
+.product-heading {
+  color:#888;
+}
+.text-green {
+  color:#6abd2a;
+}
+
+.label-width-175 {
+  width: 175px;
+}
+
+.cc-img {
+  max-width: 250px;
+  padding-bottom: 20px;
+}
+
+.btn-success {
+  background-color: #6abd2a;
+}
+
